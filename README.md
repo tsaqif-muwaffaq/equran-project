@@ -16,22 +16,23 @@ Website ini dirancang responsif, ringan, dan mudah digunakan di berbagai perangk
 ✅ Responsif & Modern UI — Warna dominan biru tua dan putih dengan animasi halus.
 
 📂 Struktur Folder
-project-name/
-├─ index.html              # Halaman utama (daftar surat)
-├─ detail.html            # Halaman detail surat & ayat
+alquran-app/
+├─ index.html                 # Halaman utama (daftar surat)
+├─ detail.html               # Halaman detail surat & ayat
 ├─ assets/
 │  ├─ css/
-│  │  └─ styles.css       # Style utama
-│  └─ img/                # (opsional) gambar/icon
+│  │  └─ styles.css          # Style utama
+│  └─ img/                   # (opsional) gambar/icon
 ├─ src/
-│  ├─ main.js             # Entry point JS utama
+│  ├─ main.js                # Entry point JS utama
 │  ├─ modules/
-│  │  ├─ api.js          # Modul pengambilan data dari API equran.id
-│  │  ├─ ui.js           # Modul manipulasi DOM dan render UI
-│  │  ├─ storage.js      # Modul localStorage & sessionStorage
-│  │  └─ utils.js        # Fungsi utilitas umum
-│  └─ components/        # (opsional) komponen tambahan
+│  │  ├─ api.js             # Modul pengambilan data dari API equran.id
+│  │  ├─ ui.js              # Modul manipulasi DOM & render UI
+│  │  ├─ storage.js         # Modul localStorage & sessionStorage
+│  │  └─ utils.js           # Fungsi utilitas umum
+│  └─ components/           # (opsional) komponen tambahan
 └─ README.md
+
 
 
 🧑‍💻 Teknologi yang Digunakan
@@ -109,3 +110,4 @@ Fitur pencarian ayat global berdasarkan kata kunci
 
 👤 Nama: [tsaqif muwaffaq]
 📍 Link Live: [equran-online.vercel.app]
+📍 Link presentasi: 
