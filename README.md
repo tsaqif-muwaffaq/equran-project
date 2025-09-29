@@ -15,23 +15,26 @@ Website ini dirancang responsif, ringan, dan mudah digunakan di berbagai perangk
 ✅ Error Handling — Penanganan error ketika API gagal dimuat dengan tampilan pesan ramah.
 ✅ Responsif & Modern UI — Warna dominan biru tua dan putih dengan animasi halus.
 
-📂 Struktur Folder
+## 📂 Struktur Folder
+
+```plaintext
 alquran-app/
-├─ index.html                 # Halaman utama (daftar surat)
-├─ detail.html               # Halaman detail surat & ayat
+├─ index.html
+├─ detail.html
 ├─ assets/
 │  ├─ css/
-│  │  └─ styles.css          # Style utama
-│  └─ img/                   # (opsional) gambar/icon
+│  │  └─ styles.css
+│  └─ img/
 ├─ src/
-│  ├─ main.js                # Entry point JS utama
+│  ├─ main.js
 │  ├─ modules/
-│  │  ├─ api.js             # Modul pengambilan data dari API equran.id
-│  │  ├─ ui.js              # Modul manipulasi DOM & render UI
-│  │  ├─ storage.js         # Modul localStorage & sessionStorage
-│  │  └─ utils.js           # Fungsi utilitas umum
-│  └─ components/           # (opsional) komponen tambahan
+│  │  ├─ api.js
+│  │  ├─ ui.js
+│  │  ├─ storage.js
+│  │  └─ utils.js
+│  └─ components/
 └─ README.md
+
 
 
 
@@ -108,6 +111,6 @@ Fitur pencarian ayat global berdasarkan kata kunci
 
 ✨ Kontributor
 
-👤 Nama: [tsaqif muwaffaq]
-📍 Link Live: [equran-online.vercel.app]
+👤 Nama: tsaqif muwaffaq
+📍 Link Live: equran-online.vercel.app
 📍 Link presentasi: 
