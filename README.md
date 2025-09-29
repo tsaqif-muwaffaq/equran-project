@@ -114,4 +114,4 @@ Fitur pencarian ayat global berdasarkan kata kunci
 👤 Nama: tsaqif muwaffaq
 📍 Link Live: https://equran-online.vercel.app
 📍 Link presentasi: https://gamma.app/docs/Al-Quran-Web-App-ounzdu1g85likm9
-📍 Link vidio presentasi: 
+📍 Link vidio presentasi: https://youtu.be/POcx1JIdC7Y?si=bwiVxPCXRuC6R9zJ
