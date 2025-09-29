@@ -112,5 +112,5 @@ Fitur pencarian ayat global berdasarkan kata kunci
 ✨ Kontributor
 
 👤 Nama: tsaqif muwaffaq
-📍 Link Live: equran-online.vercel.app
+📍 Link Live: https://equran-online.vercel.app
 📍 Link presentasi: 
