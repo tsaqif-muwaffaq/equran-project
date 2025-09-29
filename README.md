@@ -107,6 +107,5 @@ Fitur pencarian ayat global berdasarkan kata kunci
 
 ✨ Kontributor
 
-👤 Nama: [Isi Nama Kamu]
-📚 Mata Kuliah: Frontend JavaScript — Proyek Akhir
-📍 Link Live: [Tambahkan URL Vercel setelah deploy]
+👤 Nama: [tsaqif muwaffaq]
+📍 Link Live: [equran-online.vercel.app]
