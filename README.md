@@ -35,7 +35,7 @@ alquran-app/
 │  └─ components/
 └─ README.md
 
-
+```
 
 
 🧑‍💻 Teknologi yang Digunakan
